@@ -10,7 +10,7 @@ a{
 
 .home-content{
     width: 100%;
-    height: 940px;
+    height: 1037px;
     background: linear-gradient(#5794d1, #dce7f5 50%, #dce7f5)
 }
 
@@ -118,6 +118,7 @@ a{
     height: 168px;
     border: 1px solid #99d9ea;
     float: left;
+    cursor: pointer;
 }
 
 .content-body .body-item .item-middle{
@@ -157,4 +158,19 @@ a{
     width: 20px;
     height: 20px;
     float: right;
+}
+
+/*页尾*/
+.content-footer{
+    width: 100%;
+    height: 100px;
+    font-size: 14px;
+    color: #5794d1;
+    border-top: 1px gray solid;
+}
+.content-footer p{
+    width: 100%;
+    height:100px;
+    line-height: 100px;
+    text-align: center;
 }
