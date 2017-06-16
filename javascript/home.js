@@ -4,8 +4,8 @@
 
 $(document).ready(function () {
     $("#banner-image").slick({
-        // // autoplay: true,
-        // arrows:false,
-        // dots:true
+        autoplay: true,
+        arrows:false,
+        dots:true
     });
 });
